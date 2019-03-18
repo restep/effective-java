@@ -1,4 +1,4 @@
-package com.effective.ch02;
+package com.restep.item01;
 
 /**
  * @author restep
