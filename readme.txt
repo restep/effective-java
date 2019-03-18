@@ -5,3 +5,8 @@
 5.避免创建不必要的对象
 6.消除过期的对象引用
 7.避免使用终结方法(finalizer)
+8.覆盖equals时请遵守通用约定
+9.覆盖equals时总要覆盖hashCode
+10.始终要覆盖toString
+11.谨慎地覆盖clone
+12.考虑实现Comparable接口
